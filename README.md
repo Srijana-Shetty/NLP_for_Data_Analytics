@@ -54,7 +54,7 @@ It covers tokenization, stopwords removal, lemmatization, stemming, frequency an
 * NER and dependency parse charts
 
 <img width="300" height="300" alt="Screenshot 2025-11-20 114834" src="https://github.com/user-attachments/assets/34787069-49f1-4e6c-8033-4417abb4caf3" />
-<img width="250" height="250" alt="Screenshot 2025-11-20 115651" src="https://github.com/user-attachments/assets/12bcc1fb-c5e4-4572-aeba-5159ff6af518" />
+<img width="270" height="270" alt="Screenshot 2025-11-20 115651" src="https://github.com/user-attachments/assets/12bcc1fb-c5e4-4572-aeba-5159ff6af518" />
 <img width="400" height="470" alt="Screenshot 2025-11-20 114355" src="https://github.com/user-attachments/assets/62803c52-3e60-44e1-a869-3348f73f688f" />
 
 
