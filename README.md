@@ -55,7 +55,7 @@ It covers tokenization, stopwords removal, lemmatization, stemming, frequency an
 
 <img width="300" height="300" alt="Screenshot 2025-11-20 114834" src="https://github.com/user-attachments/assets/34787069-49f1-4e6c-8033-4417abb4caf3" />
 <img width="300" height="300" alt="Screenshot 2025-11-20 114834" src="https://github.com/user-attachments/assets/a61a1cf5-c11c-4409-ae99-6de7fa74c17c" />
-<img width="400" height="400" alt="Screenshot 2025-11-20 114355" src="https://github.com/user-attachments/assets/62803c52-3e60-44e1-a869-3348f73f688f" />
+<img width="400" height="450" alt="Screenshot 2025-11-20 114355" src="https://github.com/user-attachments/assets/62803c52-3e60-44e1-a869-3348f73f688f" />
 
 
 
