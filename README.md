@@ -43,7 +43,7 @@ It covers tokenization, stopwords removal, lemmatization, stemming, frequency an
 
 #### 8. POS Tag Distribution
 
-### 9. NER & Dependency Parsing
+#### 9. NER & Dependency Parsing
 -> Visualized using displacy
 
 ## 📊 Visual Outputs
