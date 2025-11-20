@@ -53,9 +53,9 @@ It covers tokenization, stopwords removal, lemmatization, stemming, frequency an
 * POS tag distribution
 * NER and dependency parse charts
 
-<img width="566" height="405" alt="Screenshot 2025-11-20 114834" src="https://github.com/user-attachments/assets/34787069-49f1-4e6c-8033-4417abb4caf3" />
-<img width="566" height="405" alt="Screenshot 2025-11-20 114834" src="https://github.com/user-attachments/assets/a61a1cf5-c11c-4409-ae99-6de7fa74c17c" />
-<img width="566" height="405" alt="Screenshot 2025-11-20 114355" src="https://github.com/user-attachments/assets/62803c52-3e60-44e1-a869-3348f73f688f" />
+<img width="400" height="200" alt="Screenshot 2025-11-20 114834" src="https://github.com/user-attachments/assets/34787069-49f1-4e6c-8033-4417abb4caf3" />
+<img width="400" height="200" alt="Screenshot 2025-11-20 114834" src="https://github.com/user-attachments/assets/a61a1cf5-c11c-4409-ae99-6de7fa74c17c" />
+<img width="400" height="200" alt="Screenshot 2025-11-20 114355" src="https://github.com/user-attachments/assets/62803c52-3e60-44e1-a869-3348f73f688f" />
 
 
 
