@@ -4,7 +4,7 @@ This project demonstrates Natural Language Processing (NLP) fundamentals using p
 It covers tokenization, stopwords removal, lemmatization, stemming, frequency analysis, POS tagging, and visualizations.
 
 ## 🚀 Features Implemented
-✔️ Text Preprocessing
+### ✔️ Text Preprocessing
 
 - Tokenization
 - Stopword removal
@@ -20,7 +20,7 @@ It covers tokenization, stopwords removal, lemmatization, stemming, frequency an
 - Named Entity Recognition (NER)
 - Dependency parsing with spaCy’s displacy
 
-# 📝 Workflow Overview
+## 📝 Workflow Overview
 
 1. Load English NLP Model
 -> nlp = spacy.load("en_core_web_sm")
@@ -46,7 +46,7 @@ It covers tokenization, stopwords removal, lemmatization, stemming, frequency an
 9. NER & Dependency Parsing
 -> Visualized using displacy
 
-# 📊 Visual Outputs
+## 📊 Visual Outputs
 
 * Bar chart of most frequent words
 * Word cloud showing prominent terms
