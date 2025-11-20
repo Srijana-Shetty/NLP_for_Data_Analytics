@@ -23,19 +23,19 @@ It covers tokenization, stopwords removal, lemmatization, stemming, frequency an
 ## 📝 Workflow Overview
 
 #### 1. Load English NLP Model
--> nlp = spacy.load("en_core_web_sm")
+- nlp = spacy.load("en_core_web_sm")
 
 #### 2. Prepare text and process it
--> doc = nlp(text)
+- doc = nlp(text)
 
 #### 3. Token Analysis
--> Text, lemma, part of speech, dependency, stopword flag
+- Text, lemma, part of speech, dependency, stopword flag
 
 #### 4. Lemmatization vs Stemming
--> Shows differences using spaCy and NLTK
+- Shows differences using spaCy and NLTK
 
 #### 5. Clean Tokens for Visualization
--> clean_tokens = [token.lemma_.lower() for token in doc if token.is_alpha and not token.is_stop]
+- clean_tokens = [token.lemma_.lower() for token in doc if token.is_alpha and not token.is_stop]
 
 #### 6. Word Frequency Bar Plot
 
@@ -44,7 +44,7 @@ It covers tokenization, stopwords removal, lemmatization, stemming, frequency an
 #### 8. POS Tag Distribution
 
 #### 9. NER & Dependency Parsing
--> Visualized using displacy
+- Visualized using displacy
 
 ## 📊 Visual Outputs
 
