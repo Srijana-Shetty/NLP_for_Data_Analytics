@@ -1,9 +1,9 @@
-## 🧠 NLP Basics with spaCy, NLTK & WordCloud
+# 🧠 NLP Basics with spaCy, NLTK & WordCloud
 
 This project demonstrates Natural Language Processing (NLP) fundamentals using popular Python libraries like spaCy, NLTK, Matplotlib, and WordCloud.
 It covers tokenization, stopwords removal, lemmatization, stemming, frequency analysis, POS tagging, and visualizations.
 
-# 🚀 Features Implemented
+## 🚀 Features Implemented
 ✔️ Text Preprocessing
 
 - Tokenization
